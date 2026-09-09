@@ -1,6 +1,6 @@
 # Bioinformatics-for-Biologists-Analysing-and-Interpreting-Genomics-Datasets-
 Analyzing and Interpreting Genomic Datasets
-# Key Topics
+## Key Topics
 1. next-generation sequencing, its significance and different file formats used.
 2. how to run different commands on the UNIX command line for sequence quality control, mapping, and variant calling.
 3. concepts of workflows and workflow management systems such as Nextflow
