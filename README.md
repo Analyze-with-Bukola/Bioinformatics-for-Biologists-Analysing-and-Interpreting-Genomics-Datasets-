@@ -7,3 +7,7 @@ Analyzing and Interpreting Genomic Datasets
 4. How to install Nextflow and use the existing viralrecon pipeline from the nf-core project.
 5. Set up a samplesheet to be used as input for viralrecon
 6. Examined the outputs from viralrecon and explain how these could be used to decide whether the data we analysed was of sufficient quality for downstream analyses.
+## My Bioinformatics Setup
+1. Ubuntu (Linus)
+2. MIniConda
+3. GitBash
