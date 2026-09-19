@@ -17,19 +17,19 @@ Analyzing and Interpreting Genomic Datasets
 
 Next-generation sequencing (NGS) refers to high-throughput sequencing technologies that allow DNA and RNA to be analysed rapidly and at a large scale. In this module, I learned about three major sequencing technologies: **Illumina, PacBio, and Oxford Nanopore Technologies (ONT)**. The main difference between them is how they detect nucleotide sequences and the length of reads they produce.
 
-## Illumina Sequencing
+## Illumina Sequencing: Short Read Sequencer
 
 Illumina is a **short-read sequencing** technology based on **Sequencing by Synthesis (SBS)**. DNA is fragmented and attached to a solid surface, where the fragments are amplified. Fluorescently labelled nucleotides are then incorporated during DNA synthesis, and the emitted signals are detected to determine the sequence.
 
 Illumina is known for its **high accuracy, high throughput, and relatively low cost per base**. Reads are typically around 50–300 base pairs long. It is widely used for applications such as whole-genome sequencing, whole-exome sequencing, RNA-seq, ChIP-seq, and amplicon sequencing. However, because the reads are short, repetitive and structurally complex regions of genomes can be difficult to resolve.
 
-## PacBio Sequencing
+## PacBio Sequencing: Long Read Sequencer
 
 **Pacific Biosciences (PacBio)** uses **Single-Molecule Real-Time (SMRT) sequencing**, which produces long reads. DNA polymerase is positioned inside a small optical structure called a **Zero-Mode Waveguide (ZMW)**, where nucleotide incorporation is detected through fluorescence in real time.
 
 One important feature of PacBio is its ability to sequence circular DNA molecules multiple times. These repeated observations can be combined to produce a highly accurate **Circular Consensus Sequence (CCS)**, also known as a HiFi read. The long and accurate reads make PacBio particularly useful for **de novo genome assembly, structural variant detection, full-length transcript sequencing, and resolving repetitive genomic regions**.
 
-## Oxford Nanopore Technology (ONT)
+## Oxford Nanopore Technology (ONT): Long Read Sequencer
 
 **Oxford Nanopore Technology (ONT)** is another long-read sequencing technology, but it works differently from Illumina and PacBio. Instead of detecting fluorescence, ONT detects **changes in electrical current** as nucleic acids pass through a nanopore embedded in a membrane.
 
