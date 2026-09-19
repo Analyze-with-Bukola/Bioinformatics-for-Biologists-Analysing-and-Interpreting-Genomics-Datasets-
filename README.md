@@ -52,3 +52,5 @@ The key concept I took from this topic is:
 Illumina can be remembered as **short reads and fluorescence-based sequencing**, PacBio as **long reads and real-time polymerase activity**, and ONT as **long reads and electrical signals through a nanopore**.
 
 Understanding these differences is important in bioinformatics because the sequencing technology determines the type of data generated and influences how the data should be processed and analysed.
+
+Source: [Wellcome Connecting Science](https://www.futurelearn.com/courses/bioinformatics-for-biologists-analysing-and-interpreting-genomics-datasets/4/todo/208398)
