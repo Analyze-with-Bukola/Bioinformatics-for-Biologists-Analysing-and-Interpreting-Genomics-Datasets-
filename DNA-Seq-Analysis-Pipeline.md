@@ -29,3 +29,5 @@ The main lesson for me is that bioinformatics analysis is not simply about runni
 I also learned that understanding the characteristics of sequencing platforms is important when designing an experiment. Short-read and long-read technologies have different strengths, and combining sequencing technologies can sometimes be useful, particularly for complex genome assembly.
 
 Finally, understanding file formats, indexing, and coordinate systems is essential for working correctly with genomic data. For example, genomic formats may use either **0-based or 1-based coordinates**, so knowing which system a tool or file uses is important when interpreting genomic positions.
+
+Source: [Wellcome Connecting Science](https://www.futurelearn.com/courses/bioinformatics-for-biologists-analysing-and-interpreting-genomics-datasets/4/todo/208398)
